@@ -38,4 +38,10 @@ With visual progress tracking, streak management, and flexible goal durations, i
 
 ### Learned today
 ![Learned today](< Learned today.png>)
+### Day freezed
+ ![Day freezed](< Day freezed.png>)
+
+### Update learning goal
+
+ ![Update learning goal](< Update learning goal.png>)
 
