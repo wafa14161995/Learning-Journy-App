@@ -31,10 +31,11 @@ With visual progress tracking, streak management, and flexible goal durations, i
 
 ---
 ### 🎨 Visual Workflow
+
 <p>
-<img src="User20%Flow.png" alt="User Flow" width="250"/>
+  <img src="User%20Flow.png" alt="User Flow" width="250"/>
 </p>
-  
+
 
 ___
 ## 📸 Screenshots
