@@ -31,7 +31,6 @@ With visual progress tracking, streak management, and flexible goal durations, i
 
 ---
 ## 📸 Screenshots
-## 📸 Screenshots
 
 <p>
   <img src="Onboarding.png" alt="Onboarding Screen" width="250"/>
