@@ -14,7 +14,7 @@ struct ContentView: View {
         NavigationStack {
             VStack(spacing: 25) {
                 Circle()
-                    .fill(Color.darkGray.opacity(0.6))
+                    .fill(Color.darkgray.opacity(0.6))
                     .frame(width: 120, height: 120)
                     .overlay(
                         Text("🔥")
@@ -29,7 +29,7 @@ struct ContentView: View {
                     
                     Text("This app will help you learn everyday")
                         .font(.system(size: 16))
-                        .foregroundColor(Color.darkGray)
+                        .foregroundColor(Color.darkgray)
                 } .frame(maxWidth: .infinity, alignment: .leading)
                 
               
@@ -42,7 +42,7 @@ struct ContentView: View {
                         .padding()
                         .background(Color.black)
                         .cornerRadius(8)
-                        .foregroundColor(.darkGray)
+                        .foregroundColor(.darkgray)
                         .overlay(Divider().background(Color.gray), alignment: .bottom)
                 }
                 .frame(maxWidth: .infinity, alignment: .leading)

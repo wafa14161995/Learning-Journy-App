@@ -31,7 +31,7 @@ struct CurrentLearningDay: View {
                 
                 NavigationLink(destination: UpdateLearningGoal(vm: vm).navigationBarBackButtonHidden(true)) {
                     Circle()
-                        .fill(Color.darkGray.opacity(0.6))
+                        .fill(Color.darkgray.opacity(0.6))
                         .frame(width: 50, height: 50)
                         .overlay(
                             Text("🔥")
@@ -159,7 +159,7 @@ struct CurrentLearningDay: View {
 
             Button(action: vm.toggleFreezeDay) {
                 RoundedRectangle(cornerRadius: 10)
-                    .fill((vm.dayLogged || vm.dayFrozen) ? Color.darkGray : Color.babyBlue) // Gray background if day is logged or frozen
+                    .fill((vm.dayLogged || vm.dayFrozen) ? Color.darkgray : Color.babyBlue) // Gray background if day is logged or frozen
                     .frame(width: 150, height: 50)
                     .overlay(
                         Text("Freeze day")

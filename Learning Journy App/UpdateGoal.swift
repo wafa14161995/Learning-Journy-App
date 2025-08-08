@@ -63,7 +63,7 @@ struct UpdateLearningGoal: View {
                         .padding()
                         .background(Color.black)
                         .cornerRadius(8)
-                        .foregroundColor(.darkGray)
+                        .foregroundColor(.darkgray)
                         .overlay(Divider().background(Color.gray), alignment: .bottom)
                 }
                 .padding(.top, 10)

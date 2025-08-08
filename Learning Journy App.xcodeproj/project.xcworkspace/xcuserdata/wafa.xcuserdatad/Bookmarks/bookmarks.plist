@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>top-level-items</key>
+	<array>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>13</string>
+					<key>EndingLineNumber</key>
+					<string>154</string>
+					<key>StartingColumnNumber</key>
+					<string>13</string>
+					<key>StartingLineNumber</key>
+					<string>154</string>
+					<key>Timestamp</key>
+					<string>776359614.77178</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>home-directory</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>Library/Developer/Xcode/DerivedData/Learning_Journy_App-evxaezkfyswbzggvwxytwqjnoxck/Build/Intermediates.noindex/Learning Journy App.build/Debug-iphonesimulator/Learning Journy App.build/DerivedSources/GeneratedAssetSymbols.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string></string>
+				<key>leading</key>
+				<string>    }
+
+    #warning(</string>
+				<key>trailing</key>
+				<string>"The \"DarkGray\" color asset name resolves to a conflicting UIColor symbol \"darkGray\". Try renaming the asset.")
+
+    /// The "Learned" asset catalog color.
+</string>
+			</dict>
+			<key>title</key>
+			<string>Warning: The "DarkGray" color asset name resolves to a conflicting UIColor symbol "darkGray". Try renaming the asset.</string>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+	</array>
+</dict>
+</plist>
