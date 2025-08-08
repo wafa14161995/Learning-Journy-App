@@ -30,3 +30,5 @@ With visual progress tracking, streak management, and flexible goal durations, i
 
 ---
 ## 📸 Screenshots
+### Onboarding Screen
+![Onboarding](Onboarding.png)
