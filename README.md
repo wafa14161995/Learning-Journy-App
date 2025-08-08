@@ -31,17 +31,16 @@ With visual progress tracking, streak management, and flexible goal durations, i
 
 ---
 ## 📸 Screenshots
-### Onboarding Screen
-![Onboarding](Onboarding.png)
-### Current day
-![Current Day](<Current day - Default.png>)
+## 📸 Screenshots
 
-### Learned today
-![Learned today](< Learned today.png>)
-### Day freezed
- ![Day freezed](< Day freezed.png>)
+<p>
+  <img src="Onboarding.png" alt="Onboarding Screen" width="250"/>
+  <img src="Current%20day%20-%20Default.png" alt="Current Day" width="250"/>
+  <img src="Learned%20today.png" alt="Learned Today" width="250"/>
+</p>
 
-### Update learning goal
-
- ![Update learning goal](< Update learning goal.png>)
+<p>
+  <img src="Day%20freezed.png" alt="Day Freezed" width="250"/>
+  <img src="Update%20learning%20goal.png" alt="Update Learning Goal" width="250"/>
+</p>
 
