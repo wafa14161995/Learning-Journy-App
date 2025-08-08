@@ -30,16 +30,22 @@ With visual progress tracking, streak management, and flexible goal durations, i
 
 
 ---
+### 🎨 Visual Workflow
+<p>
+<img src="User20%Flow.png" alt="User Flow" width="250"/>
+<p>
+  
+
+___
 ## 📸 Screenshots
 
 <p>
   <img src="Onboarding.png" alt="Onboarding Screen" width="250"/>
   <img src="Current%20day%20-%20Default.png" alt="Current Day" width="250"/>
   <img src="Learned%20today.png" alt="Learned Today" width="250"/>
-</p>
-
-<p>
   <img src="Day%20freezed.png" alt="Day Freezed" width="250"/>
   <img src="Update%20learning%20goal.png" alt="Update Learning Goal" width="250"/>
 </p>
+
+
 
