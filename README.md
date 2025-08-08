@@ -34,4 +34,4 @@ With visual progress tracking, streak management, and flexible goal durations, i
 ### Onboarding Screen
 ![Onboarding](Onboarding.png)
 ### Current day
-![Current Day](Current day - Default.png)
+![Current Day](<Current day - Default.png>)
